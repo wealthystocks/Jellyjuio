@@ -2,6 +2,10 @@
 
 
 
+Wealthy Stocks is a convenient and efficient stock learning software, which provides a convenient way for stock lovers to reserve for learning, accurate and real-time market data, and is a necessary free mobile phone stock software for users.
+Main functions:
+Stock expert learning class a key appointment, free from line queue; Market center view data clear market situation; Xueyou circle big guy to share step by step promotion.
+
 Technical Support Phone：0044-7478014682
 If you encounter any problem in the process of use, you can feedback to us, and we will solve it for you as soon as possible
 
